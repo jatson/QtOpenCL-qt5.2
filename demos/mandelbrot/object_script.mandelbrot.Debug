@@ -1,0 +1,17 @@
+INPUT(
+./debug\main.o
+./debug\palette.o
+./debug\framerate.o
+./debug\image.o
+./debug\imagecl.o
+./debug\imagenative.o
+./debug\view.o
+./debug\viewgl.o
+./debug\cltexture2d.o
+./debug\zoom.o
+./debug\qrc_mandelbrot.o
+./debug\moc_framerate.o
+./debug\moc_view.o
+./debug\moc_viewgl.o
+./debug\moc_glproxy.o
+);

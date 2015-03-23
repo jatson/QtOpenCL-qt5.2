@@ -1,0 +1,12 @@
+INPUT(
+./debug\main.o
+./debug\beziermainwindow.o
+./debug\bezierwidget.o
+./debug\qglcamera.o
+./debug\framerate.o
+./debug\qrc_bezierpatch.o
+./debug\moc_bezierwidget.o
+./debug\moc_beziermainwindow.o
+./debug\moc_qglcamera.o
+./debug\moc_framerate.o
+);

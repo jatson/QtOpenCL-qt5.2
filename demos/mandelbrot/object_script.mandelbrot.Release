@@ -1,0 +1,17 @@
+INPUT(
+./release\main.o
+./release\palette.o
+./release\framerate.o
+./release\image.o
+./release\imagecl.o
+./release\imagenative.o
+./release\view.o
+./release\viewgl.o
+./release\cltexture2d.o
+./release\zoom.o
+./release\qrc_mandelbrot.o
+./release\moc_framerate.o
+./release\moc_view.o
+./release\moc_viewgl.o
+./release\moc_glproxy.o
+);

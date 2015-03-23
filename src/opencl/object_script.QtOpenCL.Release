@@ -1,0 +1,17 @@
+INPUT(
+./release\qclbuffer.o
+./release\qclcommandqueue.o
+./release\qclcontext.o
+./release\qcldevice.o
+./release\qclevent.o
+./release\qclimage.o
+./release\qclimageformat.o
+./release\qclkernel.o
+./release\qclmemoryobject.o
+./release\qclplatform.o
+./release\qclprogram.o
+./release\qclsampler.o
+./release\qcluserevent.o
+./release\qclvector.o
+./release\qclworksize.o
+);

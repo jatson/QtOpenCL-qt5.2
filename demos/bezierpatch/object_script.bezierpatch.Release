@@ -1,0 +1,12 @@
+INPUT(
+./release\main.o
+./release\beziermainwindow.o
+./release\bezierwidget.o
+./release\qglcamera.o
+./release\framerate.o
+./release\qrc_bezierpatch.o
+./release\moc_bezierwidget.o
+./release\moc_beziermainwindow.o
+./release\moc_qglcamera.o
+./release\moc_framerate.o
+);

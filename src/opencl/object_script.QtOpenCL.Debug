@@ -1,0 +1,17 @@
+INPUT(
+./debug\qclbuffer.o
+./debug\qclcommandqueue.o
+./debug\qclcontext.o
+./debug\qcldevice.o
+./debug\qclevent.o
+./debug\qclimage.o
+./debug\qclimageformat.o
+./debug\qclkernel.o
+./debug\qclmemoryobject.o
+./debug\qclplatform.o
+./debug\qclprogram.o
+./debug\qclsampler.o
+./debug\qcluserevent.o
+./debug\qclvector.o
+./debug\qclworksize.o
+);
