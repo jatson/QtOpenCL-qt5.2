@@ -1,6 +1,6 @@
 QtOpenCL
 --------
-Cloned from https://gitorious.org/qtopencl-clone/qtopencl-clone/ and modified a little: it can be compiled on windows instantly
+Forked from https://gitorious.org/qtopencl-clone/qtopencl-clone/ and modified a little: it builds on windows with Qt5.2 and MinGW 4.8
 --------
 
 This directory contains a Qt-style wrapper library for OpenCL
